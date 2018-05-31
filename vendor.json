@@ -255,6 +255,11 @@
 			"revision": ""
 		},
 		{
+			"checksumSHA1": "shTCYnhVnwNkeP2bpqb1FOIIyNA=",
+			"path": "github.com/willf/pad",
+			"revision": ""
+		},
+		{
 			"checksumSHA1": "vE43s37+4CJ2CDU6TlOUOYE0K9c=",
 			"path": "golang.org/x/crypto/bcrypt",
 			"revision": ""
